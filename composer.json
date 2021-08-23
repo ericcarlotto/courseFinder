@@ -1,0 +1,14 @@
+{
+    "name": "carlottoeric/coursefinder",
+    "description": "Course finder on alura.com project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eric Carlotto",
+            "email": "ecarlotto@intellipos.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
