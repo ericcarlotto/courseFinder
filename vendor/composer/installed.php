@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '68057e7f824bc53cfc2a2ac6681e69d93bcb223b',
+        'reference' => '1a257d84d35327918f14c3a5945af1611124745f',
         'name' => 'carlottoeric/coursefinder',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '68057e7f824bc53cfc2a2ac6681e69d93bcb223b',
+            'reference' => '1a257d84d35327918f14c3a5945af1611124745f',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
