@@ -1,7 +1,6 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/CourseFinder.php';
 
 use Alura\CourseFinder\CourseFinder;
 use GuzzleHttp\Client;
